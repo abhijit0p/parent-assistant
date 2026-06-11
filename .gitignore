@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules/
+
+# Local environment variables containing private credentials/API keys
+.env
+.env.local
+
+# Local execution logs and system files
+npm-debug.log*
+.DS_Store
+Thumbs.db
+
+# Optional: If you don't want to bundle generated data vectors to git
+# embeddings/

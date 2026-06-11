@@ -1,0 +1,8 @@
+phone,name,course,lastPaymentDate,nextDueDate,amountDue,classesThisMonth,classesLastMonth,paymentLink,subscription
+,,,,,,,,,
+9999999991,Rahul,Chess,10-05-2026,10-06-2026,2000,8,10,https://pay.link/1,Monthly
+,,,,,,,,,
+9999999992,Priya,Dance,15-05-2026,15-06-2026,2500,12,14,https://pay.link/2,Quarterly
+,,,,,,,,,
+9999999993,Amit,Karate,20-05-2026,20-06-2026,1800,6,8,https://pay.link/3,Monthly
+9916130148,Abhijit,Dance,20-05-2026,20-06-2026,3600,8,9,https://pay.link/4,Semester

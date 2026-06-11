@@ -1,0 +1,30 @@
+Subscription Modification Policy
+
+The academy offers multiple subscription plans including monthly, quarterly, semester, annual, and package-based plans.
+
+Plan Changes
+
+Students may upgrade or downgrade their subscription plan only at the time of a payment event.
+
+Examples include:
+
+- Renewal payment
+- Package recharge
+- Subscription extension
+- Annual plan conversion
+
+Mid-Cycle Changes
+
+Subscription changes are not permitted during an active billing cycle.
+
+Any requested change will become effective only when the next payment is processed.
+
+Pricing Impact
+
+Changing a subscription may result in different pricing, discounts, package validity periods, and attendance limits.
+
+Promotional Offers
+
+Promotional pricing and discounts are subject to the terms applicable at the time of the payment transaction.
+
+The academy reserves the right to discontinue or modify subscription plans without prior notice.
