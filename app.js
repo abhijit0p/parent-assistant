@@ -160,7 +160,7 @@ console.log("⚡ HYBRID AI PARENT ASSISTANT: INTERACTIVE CONSOLE CHAT DECK ⚡")
 console.log("==================================================================");
 
 // 📞 Fallback configuration default number
-const DEFAULT_PHONE = "9916130148";
+const DEFAULT_PHONE = "9916130147";
 
 rl.question(`📞 Enter Parent Phone Number [Default: ${DEFAULT_PHONE}]: `, (phoneNumber) => {
   // If the user hits enter without typing anything, fall back to the default number
